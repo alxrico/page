@@ -1,0 +1,10 @@
+body {
+	background-color: white;
+}
+.modal-content {
+	color: black;
+}
+#carousel-example-generic {
+	width: 500px;
+    margin: 70px;
+}
